@@ -69,6 +69,9 @@
     "python.terminal.activateEnvironment": false,
     "ruby.lint": {
         "rubocop": true
+    "rubocop.yml": {
+        "Style/FrozenStringLiteralComment":
+            "Enabled": false
     },
     "search.exclude": {
       // Inherits all glob patterns from the `files.exclude` setting.
