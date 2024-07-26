@@ -69,6 +69,7 @@
     "python.terminal.activateEnvironment": false,
     "ruby.lint": {
         "rubocop": true
+    }
     "rubocop.yml": {
         "Style/FrozenStringLiteralComment":
             "Enabled": false
